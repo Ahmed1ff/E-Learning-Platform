@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project c#\\E-Learning Platform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFC9D98-957B-467E-95F5-40520F45118C}|E-Learning Platform\\E-Learning Platform.csproj|d:\\project c#\\e-learning platform\\e-learning platform\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFC9D98-957B-467E-95F5-40520F45118C}|E-Learning Platform\\E-Learning Platform.csproj|solutionrelative:e-learning platform\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFC9D98-957B-467E-95F5-40520F45118C}|E-Learning Platform\\E-Learning Platform.csproj|d:\\project c#\\e-learning platform\\e-learning platform\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFC9D98-957B-467E-95F5-40520F45118C}|E-Learning Platform\\E-Learning Platform.csproj|solutionrelative:e-learning platform\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFC9D98-957B-467E-95F5-40520F45118C}|E-Learning Platform\\E-Learning Platform.csproj|d:\\project c#\\e-learning platform\\e-learning platform\\e-learning platform.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CBFC9D98-957B-467E-95F5-40520F45118C}|E-Learning Platform\\E-Learning Platform.csproj|solutionrelative:e-learning platform\\e-learning platform.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFC9D98-957B-467E-95F5-40520F45118C}|E-Learning Platform\\E-Learning Platform.csproj|d:\\project c#\\e-learning platform\\e-learning platform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFC9D98-957B-467E-95F5-40520F45118C}|E-Learning Platform\\E-Learning Platform.csproj|solutionrelative:e-learning platform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFC9D98-957B-467E-95F5-40520F45118C}|E-Learning Platform\\E-Learning Platform.csproj|d:\\project c#\\e-learning platform\\e-learning platform\\assessmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFC9D98-957B-467E-95F5-40520F45118C}|E-Learning Platform\\E-Learning Platform.csproj|solutionrelative:e-learning platform\\assessmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFC9D98-957B-467E-95F5-40520F45118C}|E-Learning Platform\\E-Learning Platform.csproj|d:\\project c#\\e-learning platform\\e-learning platform\\assessment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFC9D98-957B-467E-95F5-40520F45118C}|E-Learning Platform\\E-Learning Platform.csproj|solutionrelative:e-learning platform\\assessment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFC9D98-957B-467E-95F5-40520F45118C}|E-Learning Platform\\E-Learning Platform.csproj|d:\\project c#\\e-learning platform\\e-learning platform\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFC9D98-957B-467E-95F5-40520F45118C}|E-Learning Platform\\E-Learning Platform.csproj|solutionrelative:e-learning platform\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFC9D98-957B-467E-95F5-40520F45118C}|E-Learning Platform\\E-Learning Platform.csproj|d:\\project c#\\e-learning platform\\e-learning platform\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFC9D98-957B-467E-95F5-40520F45118C}|E-Learning Platform\\E-Learning Platform.csproj|solutionrelative:e-learning platform\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFC9D98-957B-467E-95F5-40520F45118C}|E-Learning Platform\\E-Learning Platform.csproj|d:\\project c#\\e-learning platform\\e-learning platform\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFC9D98-957B-467E-95F5-40520F45118C}|E-Learning Platform\\E-Learning Platform.csproj|solutionrelative:e-learning platform\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFC9D98-957B-467E-95F5-40520F45118C}|E-Learning Platform\\E-Learning Platform.csproj|d:\\project c#\\e-learning platform\\e-learning platform\\e-learning platform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CBFC9D98-957B-467E-95F5-40520F45118C}|E-Learning Platform\\E-Learning Platform.csproj|solutionrelative:e-learning platform\\e-learning platform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFC9D98-957B-467E-95F5-40520F45118C}|E-Learning Platform\\E-Learning Platform.csproj|d:\\project c#\\e-learning platform\\e-learning platform\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFC9D98-957B-467E-95F5-40520F45118C}|E-Learning Platform\\E-Learning Platform.csproj|solutionrelative:e-learning platform\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFC9D98-957B-467E-95F5-40520F45118C}|E-Learning Platform\\E-Learning Platform.csproj|d:\\project c#\\e-learning platform\\e-learning platform\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFC9D98-957B-467E-95F5-40520F45118C}|E-Learning Platform\\E-Learning Platform.csproj|solutionrelative:e-learning platform\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFC9D98-957B-467E-95F5-40520F45118C}|E-Learning Platform\\E-Learning Platform.csproj|d:\\project c#\\e-learning platform\\e-learning platform\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFC9D98-957B-467E-95F5-40520F45118C}|E-Learning Platform\\E-Learning Platform.csproj|solutionrelative:e-learning platform\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFC9D98-957B-467E-95F5-40520F45118C}|E-Learning Platform\\E-Learning Platform.csproj|d:\\project c#\\e-learning platform\\e-learning platform\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFC9D98-957B-467E-95F5-40520F45118C}|E-Learning Platform\\E-Learning Platform.csproj|solutionrelative:e-learning platform\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFC9D98-957B-467E-95F5-40520F45118C}|E-Learning Platform\\E-Learning Platform.csproj|d:\\project c#\\e-learning platform\\e-learning platform\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFC9D98-957B-467E-95F5-40520F45118C}|E-Learning Platform\\E-Learning Platform.csproj|solutionrelative:e-learning platform\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFC9D98-957B-467E-95F5-40520F45118C}|E-Learning Platform\\E-Learning Platform.csproj|d:\\project c#\\e-learning platform\\e-learning platform\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFC9D98-957B-467E-95F5-40520F45118C}|E-Learning Platform\\E-Learning Platform.csproj|solutionrelative:e-learning platform\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBFC9D98-957B-467E-95F5-40520F45118C}|E-Learning Platform\\E-Learning Platform.csproj|d:\\project c#\\e-learning platform\\e-learning platform\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBFC9D98-957B-467E-95F5-40520F45118C}|E-Learning Platform\\E-Learning Platform.csproj|solutionrelative:e-learning platform\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "E-Learning Platform",
+              "DocumentMoniker": "D:\\project c#\\E-Learning Platform\\E-Learning Platform\\E-Learning Platform.csproj",
+              "RelativeDocumentMoniker": "E-Learning Platform\\E-Learning Platform.csproj",
+              "ToolTip": "D:\\project c#\\E-Learning Platform\\E-Learning Platform\\E-Learning Platform.csproj",
+              "RelativeToolTip": "E-Learning Platform\\E-Learning Platform.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-29T05:09:21.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssessmentService.cs",
+              "DocumentMoniker": "D:\\project c#\\E-Learning Platform\\E-Learning Platform\\AssessmentService.cs",
+              "RelativeDocumentMoniker": "E-Learning Platform\\AssessmentService.cs",
+              "ToolTip": "D:\\project c#\\E-Learning Platform\\E-Learning Platform\\AssessmentService.cs",
+              "RelativeToolTip": "E-Learning Platform\\AssessmentService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T05:01:13.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Assessment.cs",
+              "DocumentMoniker": "D:\\project c#\\E-Learning Platform\\E-Learning Platform\\Assessment.cs",
+              "RelativeDocumentMoniker": "E-Learning Platform\\Assessment.cs",
+              "ToolTip": "D:\\project c#\\E-Learning Platform\\E-Learning Platform\\Assessment.cs",
+              "RelativeToolTip": "E-Learning Platform\\Assessment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T04:59:49.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\project c#\\E-Learning Platform\\E-Learning Platform\\Question.cs",
+              "RelativeDocumentMoniker": "E-Learning Platform\\Question.cs",
+              "ToolTip": "D:\\project c#\\E-Learning Platform\\E-Learning Platform\\Question.cs",
+              "RelativeToolTip": "E-Learning Platform\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T04:56:49.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "D:\\project c#\\E-Learning Platform\\E-Learning Platform\\Exam.cs",
+              "RelativeDocumentMoniker": "E-Learning Platform\\Exam.cs",
+              "ToolTip": "D:\\project c#\\E-Learning Platform\\E-Learning Platform\\Exam.cs",
+              "RelativeToolTip": "E-Learning Platform\\Exam.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T04:54:41.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\project c#\\E-Learning Platform\\E-Learning Platform\\Program.cs",
+              "RelativeDocumentMoniker": "E-Learning Platform\\Program.cs",
+              "ToolTip": "D:\\project c#\\E-Learning Platform\\E-Learning Platform\\Program.cs",
+              "RelativeToolTip": "E-Learning Platform\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwCsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T02:25:48.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\project c#\\E-Learning Platform\\E-Learning Platform\\Course.cs",
+              "RelativeDocumentMoniker": "E-Learning Platform\\Course.cs",
+              "ToolTip": "D:\\project c#\\E-Learning Platform\\E-Learning Platform\\Course.cs",
+              "RelativeToolTip": "E-Learning Platform\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T02:19:46.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "E-Learning Platform",
+              "DocumentMoniker": "D:\\project c#\\E-Learning Platform\\E-Learning Platform\\E-Learning Platform.csproj",
+              "RelativeDocumentMoniker": "E-Learning Platform\\E-Learning Platform.csproj",
+              "ToolTip": "D:\\project c#\\E-Learning Platform\\E-Learning Platform\\E-Learning Platform.csproj",
+              "RelativeToolTip": "E-Learning Platform\\E-Learning Platform.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-29T02:15:05.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "D:\\project c#\\E-Learning Platform\\E-Learning Platform\\CourseService.cs",
+              "RelativeDocumentMoniker": "E-Learning Platform\\CourseService.cs",
+              "ToolTip": "D:\\project c#\\E-Learning Platform\\E-Learning Platform\\CourseService.cs",
+              "RelativeToolTip": "E-Learning Platform\\CourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T02:25:07.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\project c#\\E-Learning Platform\\E-Learning Platform\\UserService.cs",
+              "RelativeDocumentMoniker": "E-Learning Platform\\UserService.cs",
+              "ToolTip": "D:\\project c#\\E-Learning Platform\\E-Learning Platform\\UserService.cs",
+              "RelativeToolTip": "E-Learning Platform\\UserService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T02:23:55.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\project c#\\E-Learning Platform\\E-Learning Platform\\Student.cs",
+              "RelativeDocumentMoniker": "E-Learning Platform\\Student.cs",
+              "ToolTip": "D:\\project c#\\E-Learning Platform\\E-Learning Platform\\Student.cs",
+              "RelativeToolTip": "E-Learning Platform\\Student.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T02:15:23.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\project c#\\E-Learning Platform\\E-Learning Platform\\UserRepository.cs",
+              "RelativeDocumentMoniker": "E-Learning Platform\\UserRepository.cs",
+              "ToolTip": "D:\\project c#\\E-Learning Platform\\E-Learning Platform\\UserRepository.cs",
+              "RelativeToolTip": "E-Learning Platform\\UserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T02:22:56.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\project c#\\E-Learning Platform\\E-Learning Platform\\IRepository.cs",
+              "RelativeDocumentMoniker": "E-Learning Platform\\IRepository.cs",
+              "ToolTip": "D:\\project c#\\E-Learning Platform\\E-Learning Platform\\IRepository.cs",
+              "RelativeToolTip": "E-Learning Platform\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T02:20:27.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Material.cs",
+              "DocumentMoniker": "D:\\project c#\\E-Learning Platform\\E-Learning Platform\\Material.cs",
+              "RelativeDocumentMoniker": "E-Learning Platform\\Material.cs",
+              "ToolTip": "D:\\project c#\\E-Learning Platform\\E-Learning Platform\\Material.cs",
+              "RelativeToolTip": "E-Learning Platform\\Material.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T02:20:40.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\project c#\\E-Learning Platform\\E-Learning Platform\\User.cs",
+              "RelativeDocumentMoniker": "E-Learning Platform\\User.cs",
+              "ToolTip": "D:\\project c#\\E-Learning Platform\\E-Learning Platform\\User.cs",
+              "RelativeToolTip": "E-Learning Platform\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T02:14:35.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "D:\\project c#\\E-Learning Platform\\E-Learning Platform\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "E-Learning Platform\\CourseRepository.cs",
+              "ToolTip": "D:\\project c#\\E-Learning Platform\\E-Learning Platform\\CourseRepository.cs",
+              "RelativeToolTip": "E-Learning Platform\\CourseRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T02:20:21.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "D:\\project c#\\E-Learning Platform\\E-Learning Platform\\Instructor.cs",
+              "RelativeDocumentMoniker": "E-Learning Platform\\Instructor.cs",
+              "ToolTip": "D:\\project c#\\E-Learning Platform\\E-Learning Platform\\Instructor.cs",
+              "RelativeToolTip": "E-Learning Platform\\Instructor.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA+wBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T02:18:05.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

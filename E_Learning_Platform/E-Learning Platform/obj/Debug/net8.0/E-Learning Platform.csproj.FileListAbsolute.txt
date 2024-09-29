@@ -1,0 +1,14 @@
+D:\project c#\E-Learning Platform\E-Learning Platform\bin\Debug\net8.0\E-Learning Platform.deps.json
+D:\project c#\E-Learning Platform\E-Learning Platform\bin\Debug\net8.0\E-Learning Platform.dll
+D:\project c#\E-Learning Platform\E-Learning Platform\bin\Debug\net8.0\E-Learning Platform.pdb
+D:\project c#\E-Learning Platform\E-Learning Platform\obj\Debug\net8.0\E-Learning Platform.GeneratedMSBuildEditorConfig.editorconfig
+D:\project c#\E-Learning Platform\E-Learning Platform\obj\Debug\net8.0\E-Learning Platform.AssemblyInfoInputs.cache
+D:\project c#\E-Learning Platform\E-Learning Platform\obj\Debug\net8.0\E-Learning Platform.AssemblyInfo.cs
+D:\project c#\E-Learning Platform\E-Learning Platform\obj\Debug\net8.0\E-Learning Platform.csproj.CoreCompileInputs.cache
+D:\project c#\E-Learning Platform\E-Learning Platform\obj\Debug\net8.0\E-Learning Platform.dll
+D:\project c#\E-Learning Platform\E-Learning Platform\obj\Debug\net8.0\refint\E-Learning Platform.dll
+D:\project c#\E-Learning Platform\E-Learning Platform\obj\Debug\net8.0\E-Learning Platform.pdb
+D:\project c#\E-Learning Platform\E-Learning Platform\obj\Debug\net8.0\ref\E-Learning Platform.dll
+D:\project c#\E-Learning Platform\E-Learning Platform\bin\Debug\net8.0\E-Learning Platform.exe
+D:\project c#\E-Learning Platform\E-Learning Platform\bin\Debug\net8.0\E-Learning Platform.runtimeconfig.json
+D:\project c#\E-Learning Platform\E-Learning Platform\obj\Debug\net8.0\E-Learning Platform.genruntimeconfig.cache
